@@ -1,0 +1,6 @@
+[submodule "ITDS221-Linear-Linked-List"]
+	path = ITDS221-Linear-Linked-List
+	url = https://github.com/ianmubangizi/ITDS221-Linear-Linked-List.git
+[submodule "ITDS221-Linear-Search"]
+	path = ITDS221-Linear-Search
+	url = https://github.com/ianmubangizi/ITDS221-Linear-Search.git
